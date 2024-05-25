@@ -4,7 +4,7 @@ import { cn } from "@/utils/cn";
 import { BackgroundGradientAnimation } from "./GradientBg";
 import { GlobeDemo } from "./GridGlobe";
 import Lottie from "react-lottie";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import animationData from "@/data/confetti.json";
 import MagicButton from "./MagicButton";
 import { IoCopyOutline } from "react-icons/io5";
@@ -19,7 +19,6 @@ export const BentoGrid = ({
   return (
     <div
       className={cn(
-        // change gap-4 to gap-8, change grid-cols-3 to grid-cols-5, remove md:auto-rows-[18rem], add responsive code
         "grid grid-cols-1 md:grid-cols-6 lg:grid-cols-5 md:grid-row-7 gap-4 lg:gap-8 mx-auto",
         className
       )}
@@ -55,7 +54,11 @@ export const BentoGridItem = ({
   const handleCopy = () => {
     navigator.clipboard.writeText('dawodubolaji189@gmail.com');
 
-    setCopied(true)
+    setCopied(true);
+
+    setTimeout(() => {
+      setCopied(false)
+    }, 5000)
   }
 
   return (
