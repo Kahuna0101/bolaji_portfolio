@@ -33,11 +33,11 @@ const Hero = () => {
             />
 
             <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-                Hi! I'm Bolaji, a Front-End Next.js Developer based in Nigeria.
+                Hi! I&apos;m Bolaji, a Front-End Next.js Developer based in Nigeria.
             </p>
 
             <p className="text-center md:tracking-wider mb-4 text-gray-600 text-xs md:text-sm lg:text-base">
-              with a strong foundation in full-stack engineering and IT infrastructure. Over the years I've built responsive, accessible interfaces and production applications using Next.js, React, Tailwind CSS, MongoDB, Sanity and Appwrite. I enjoy solving UX problems, optimizing performance, and turning complex flows into simple experiences.
+              with a strong foundation in full-stack engineering and IT infrastructure. Over the years I&apos;ve built responsive, accessible interfaces and production applications using Next.js, React, Tailwind CSS, MongoDB, Sanity and Appwrite. I enjoy solving UX problems, optimizing performance, and turning complex flows into simple experiences.
             </p>
 
             <a href="#about">
