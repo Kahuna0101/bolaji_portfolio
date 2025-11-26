@@ -33,7 +33,7 @@ const Hero = () => {
             />
 
             <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-                Hi! I&apos;m Bolaji, a Front-End Next.js Developer based in Nigeria.
+                Hi! I'm Bolaji, a Front-End Next.js Developer based in Nigeria.
             </p>
 
             <p className="text-center md:tracking-wider mb-4 text-gray-600 text-xs md:text-sm lg:text-base">
