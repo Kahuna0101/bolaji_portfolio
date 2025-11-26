@@ -109,37 +109,38 @@ export const navItems = [
   ];
   
   export const testimonials = [
-    {
-      quote:
-        "Collaborating with Bolaji was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Bolaji was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Bolaji was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Bolaji was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Bolaji was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-  ];
+  {
+    quote:
+      "Working with Bolaji has been seamless. He translates design concepts into pixel-perfect, responsive interfaces and always thinks about the user first. An absolute asset to any product team.",
+    name: "Mubarak",
+    title: "UI/UX Designer",
+  },
+  {
+    quote:
+      "Bolaji manages IT infrastructure with impressive expertise and calmness. His quick problem-solving and continuous system improvements make him an invaluable member of any tech team.",
+    name: "Ayoade Olaniyan",
+    title: "IT Manager",
+  },
+  {
+    quote:
+      "Bolaji understands client needs deeply and often delivers more than expected. His professionalism, communication, and attention to detail set him apart.",
+    name: "Tinu Odunuga",
+    title: "Client & Business Owner",
+  },
+  {
+    quote:
+      "Bolaji demonstrates a strong sense of responsibility and always follows through. His documentation, planning, and communication keep projects running smoothly.",
+    name: "Jennifer Akande",
+    title: "Operations Lead",
+  },
+  {
+    quote:
+      "Bolaji is hardworking, innovative, and always willing to support the team. His ideas consistently improve workflow and overall team performance.",
+    name: "Oluwasegun Owolabi",
+    title: "Colleague",
+  }
+];
+;
   
   export const companies = [
     {

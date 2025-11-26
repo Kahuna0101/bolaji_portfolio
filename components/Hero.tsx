@@ -24,7 +24,7 @@ const Hero = () => {
         <div className="absolute pointer-events-none inset-0 flex items-center justify-center dark:bg-black-100 bg-white [mask-image:radial-gradient(ellipse_at_center,transparent_20%,black)]"/>
       </div>
 
-      <div className="flex justify-center relative my-20 z-10">
+      <div className="flex justify-center relative my-10 z-10">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
             <h2 className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80">Dynamic Web Magic with Next.js</h2>
             <TextGenerateEffect 
@@ -33,7 +33,11 @@ const Hero = () => {
             />
 
             <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-                Hi! I&apos;m Bolaji, a Next.js Developer based in Nigeria.
+                Hi! I&apos;m Bolaji, a Front-End Next.js Developer based in Nigeria.
+            </p>
+
+            <p className="text-center md:tracking-wider mb-4 text-gray-600 text-xs md:text-sm lg:text-base">
+              with a strong foundation in full-stack engineering and IT infrastructure. Over the years I've built responsive, accessible interfaces and production applications using Next.js, React, Tailwind CSS, MongoDB, Sanity and Appwrite. I enjoy solving UX problems, optimizing performance, and turning complex flows into simple experiences.
             </p>
 
             <a href="#about">
